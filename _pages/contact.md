@@ -4,8 +4,6 @@ title: "Contact"
 author_profile: true
 ---
 
-# Contact
-
 You can find my work and professional updates through the links below.
 
 - GitHub: [dcl1702](https://github.com/dcl1702)
